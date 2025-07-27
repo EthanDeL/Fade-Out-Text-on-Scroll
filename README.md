@@ -2,6 +2,8 @@
 
 A clean, smooth text fade effect implemented in HTML, CSS, and JavaScript. This project creates a scrollable text container where the top and bottom of the text smoothly fade out using CSS mask gradients that update dynamically on scroll. Ideal for improving readability and visual polish in text-heavy sections of websites or apps.
 
+<img width="865" height="522" alt="preview" src="https://github.com/user-attachments/assets/9f9e004e-dab8-4d30-9d03-b1b9e4498590" />
+
 ## Features
 
 - 🌟 **Top & Bottom Fade Effect**: Text fades out gradually at both the top and bottom edges while scrolling.
